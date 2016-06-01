@@ -1,0 +1,32 @@
+<style>
+body {background-color: #EDD4D4;}
+h1   {color: #913F85;}
+p    {color: #913F85;}
+p    {color: #913F85;}
+h3	{color: #913F85;}
+p1	{color: #913F85;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
